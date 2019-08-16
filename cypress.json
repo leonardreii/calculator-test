@@ -1,0 +1,13 @@
+{
+    "viewportWidth": 1900,
+    "viewportHeight": 900,
+    "reporter": "junit",
+    "reporterEnabbled": "mochawesome",
+    "mochawesomeReporterOptions": {
+      "reportDir": "cypress/result",
+      "quiet": true,
+      "overwrite": false,
+      "html": false,
+      "json": true
+    }
+}
